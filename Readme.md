@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MyXpoTraceListner.cs](./CS/MyXpoTraceListner.cs) (VB: [MyXpoTraceListner.vb](./VB/MyXpoTraceListner.vb))
+* [Northwind.cs](./CS/Northwind.cs) (VB: [Northwind.vb](./VB/Northwind.vb))
+<!-- default file list end -->
 # How XPO supports delayed loading of objects and properties
 
 
